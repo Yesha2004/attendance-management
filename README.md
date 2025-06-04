@@ -1,7 +1,9 @@
 # 📘 Attendance Management System
 
 This is a full-stack web application for managing student attendance, focusing on displaying **only absentees** per subject, CIE, and semester. The system supports manual entry, stores data in **MongoDB**, and supports CRUD operations.
+
 ![Screenshot 2025-06-04 204100](https://github.com/user-attachments/assets/0f27661e-2025-4dc5-99a0-e96eadcfc72b)
+
 ![Screenshot 2025-06-04 204011](https://github.com/user-attachments/assets/d5eb099d-1b94-4d0f-b906-cfab23ee760f)
 
 ## 🧩 Tech Stack
